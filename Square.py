@@ -1,3 +1,6 @@
+''' This function will create a square/ triangle/circle and using a square it is capable of creating a cirle'''
+
+
 import turtle
 
 def draw_square(sonu):
