@@ -1,3 +1,4 @@
+'''This code will renme the files in a directory and remove the numbers. It uses a regular expression regex'''
 import os,re,sys
 def rename_files():
     #(1) get files names from a folder
