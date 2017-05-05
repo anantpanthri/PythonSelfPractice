@@ -1,3 +1,5 @@
+'''This code can send text mesages to your twilio verified numbers. Takeaways from this code is installing pip in your pc and setting environment variables'''
+
 from twilio.rest import Client
 
 # Your Account SID from twilio.com/console
