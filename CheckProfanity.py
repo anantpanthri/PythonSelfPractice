@@ -10,7 +10,13 @@ def read_test():
 def check_profanity(text):
     connection = urllib.urlopen("http://www.wdylike.appspot.com/?q="+text)
     output=connection.read()
-    print(output)
+   # print(output)
     connection.close()
+    if "true" in output:
+        print("P")
+    else:
+        print("its a safe document. Go ahead")
+     
 
 read_test()
+
