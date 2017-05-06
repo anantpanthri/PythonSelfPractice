@@ -1,3 +1,5 @@
+'''this code will check whetehr your texts contains any profanity or not'''
+
 import urllib 
 def read_test():
     file_read = open(r"C:\mooo\test.txt")
