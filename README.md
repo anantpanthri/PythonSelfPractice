@@ -1,2 +1,2 @@
 # PythonSelfPractice
-This is a self practice code
+Self taught Python projects
