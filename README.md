@@ -1,2 +1,2 @@
 # PythonSelfPractice
-Self taught Python projects
+Interesting Python projects
